@@ -45,3 +45,26 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+.vs/GLFWTutorial/v15/Solution.VC.db
+*.ipch
+ALL_BUILD.vcxproj.filters
+*.vcxproj
+CMakeCache.txt
+*.rule
+CMakeFiles/3.9.1/CMakeCXXCompiler.cmake
+*.cmake
+*.suo
+.vs/GLFWTutorial/v15/Browse.VC.db
+*.db-shm
+.vs/GLFWTutorial/v15/Solution.VC.db-wal
+CMakeFiles/3.9.1/CompilerIdC/CMakeCCompilerId.c
+*.exe
+CMakeFiles/3.9.1/CompilerIdC/Debug/CompilerIdC.tlog/CL.command.1.tlog
+*.tlog
+CMakeFiles/3.9.1/CompilerIdCXX/CMakeCXXCompilerId.cpp
+CMakeFiles/3.9.1/CompilerIdCXX/Debug/CMakeCXXCompilerId.obj
+CMakeFiles/3.9.1/VCTargetsPath.txt
+*.bin
+CMakeFiles/CMakeError.log
+*.log
+CMakeFiles/CheckTypeSize/SIZEOF_VOID_PTR.c
